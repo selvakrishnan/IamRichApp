@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Screenshots
+
+<img src="Screenshot/Screenshot 2021-06-10 at 1.32.38 AM" width="300">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
