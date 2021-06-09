@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Screenshots
 
-<img src="Screenshot/Screenshot 2021-06-10 at 1.32.38 AM" width="300">
+<img src="Screenshot/Screenshot 2021-06-10 at 1.32.38 AM.png" width="300">
 
 ## Getting Started
 
