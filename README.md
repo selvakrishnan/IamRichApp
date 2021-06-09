@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+A Basic Static App which displays a Image.
 
 # Screenshots
 
